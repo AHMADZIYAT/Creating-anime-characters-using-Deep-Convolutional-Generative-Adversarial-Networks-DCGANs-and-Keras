@@ -25,8 +25,6 @@ bash
 
 Copy code
 
-git clone https://github.com/AHMADZIYAT/anime-character-generation.git
-
 cd anime-character-generation
 
 Install the necessary dependencies:
